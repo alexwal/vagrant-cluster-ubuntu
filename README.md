@@ -11,6 +11,7 @@ Please be aware that the standard memory per instance is set to 3072 MB, and the
 
 * [VirtualBox][virtualbox] 4.3.10 or greater.
 * [Vagrant][vagrant] 1.6 or greater.
+* Vagrant Hostmanager plugin. Run: `vagrant plugin install vagrant-hostmanager`
 
 ### Clone this project and get it running!
 
